@@ -1,0 +1,4 @@
+*.log
+!ziad.log
+note_packs/
+text.txt
